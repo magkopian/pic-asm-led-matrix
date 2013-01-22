@@ -32,7 +32,7 @@ in order you to pass the delay with a register, but I made it just 1 second to k
 
 <h3>Hardware Support:</h3>
 <p>
-To make this to work first you need an 8x8 LED Matrix, no any fancy serial LED Matrixes just a simple with regular LEDs. 
+To make this to work first you need an 8x8 LED Matrix, no any fancy serial LED Matrices just a simple with regular LEDs. 
 And because I know you don't want to buy it, it is very easy to create your own. The schematic 
 is very simple just google LED Matrix Schematic and you will find out.
 </p>
