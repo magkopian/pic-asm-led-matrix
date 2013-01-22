@@ -21,7 +21,7 @@ For this to work first you have to load the row registers with the data you want
 call a MATRIX_SET_X subroutine. Currently the code has only three MATRIX_SET_X subroutines for displaying the characters 
 '1', '2' and '3', but it is very easy to create your one. You can just copy and paste one of these three and change some bits. 
 If you want to contribute to this project by creating more characters please let me know. I have also found a usefull program that makes
-it easy to design characters with LED you can find it <a href="http://www.avrprojects.info/files/files/Matrix-Display-designer.zip" title="Matrix Display Designer">here</a>.
+it easy to design characters on LED Matrix you can find it <a href="http://www.avrprojects.info/files/files/Matrix-Display-designer.zip" title="Matrix Display Designer">here</a>.
 </p>
 <p>
 Second, you have to display the character to the LED Matrix by using the MATRIX_WRITE subroutine. 
