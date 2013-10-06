@@ -47,3 +47,6 @@ slower response unless you modify the delays.
 </p>
 </body>
 </html>
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/magkopian/pic-led-matrix/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
